@@ -2,7 +2,7 @@
 
 ## 2026-07-20
 
-Started laying out the keyboard in KLE (Keyboard Layout Editor)[https://www.keyboard-layout-editor.com/] JSON format — `keyboard-layout.json`. Went with a TKL-ish arrangement but kept a dedicated arrow cluster and a lone `Del` key up top instead of going full 96%.
+Started laying out the keyboard in KLE (Keyboard Layout Editor) [https://www.keyboard-layout-editor.com/] JSON format — `keyboard-layout.json`. Went with a TKL-ish arrangement but kept a dedicated arrow cluster and a lone `Del` key up top instead of going full 96%.
 
 A few things I settled on:
 
